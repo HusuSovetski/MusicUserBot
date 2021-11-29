@@ -1,7 +1,7 @@
-# RoBotlarimTg - MusicUserBot
+# DBMsohbet - MusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @DBMBOSSdu
 
 from ᴋɪʀᴀ_ʟɪɢʜᴛ.pyro_auth import Li
 
@@ -9,7 +9,7 @@ DYNO_COMMANDK = Li.DYNO_COMMAND
 WHITE_COMMANDK = Li.WHITE_COMMAND
 
 
-FULL_PLAYING_HELP =f"""👨🏻‍💻 **RoBotlarimTg MusicUserBot**\nMesajlar avtomatik silinir\n
+FULL_PLAYING_HELP =f"""👨🏻‍💻 **DBMsohbet MusicUserBot**\nMesajlar avtomatik silinir\n
 📣**Əsas Əmrlər**\nBu əmrlər **.** ilə işlədilir
 - {WHITE_COMMANDK}sing : Cavabladığınız musiqini səsli söhbətə qoşar
 - {WHITE_COMMANDK}sing : Playlisti yoxlamaq üçündə istifadə olunur
@@ -27,10 +27,10 @@ FULL_PLAYING_HELP =f"""👨🏻‍💻 **RoBotlarimTg MusicUserBot**\nMesajlar a
 - {DYNO_COMMANDK}skip : Növbəti musiqiyə keçid et, Belədə istifadə edə bilərsiniz "skip 2" musiqinin sıra nömrəsinə uyğun.
 - {DYNO_COMMANDK}raw : Temp faylları təmizlə. 
 - {DYNO_COMMANDK}ryuk : Serverdəki ping i yoxla.\n
-👉Yeniləmələr üçün kanala abunə olun
-@RoBotlarimTg
+👉Söhbət qrupumuza qoşulun
+@DBMsohbet
 👨🏻‍💻**Sahib**
-@aykhan_s
+@DBMBOSSdu
 """
 
 
