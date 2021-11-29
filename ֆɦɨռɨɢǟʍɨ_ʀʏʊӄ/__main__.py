@@ -1,7 +1,7 @@
-# RoBotlarimTg - MusicUserBot
+# DBMBOSSdu - MusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @DBMBOSSdu
      
 import sys 
 import time
