@@ -1,7 +1,7 @@
-# RoBotlarimTg - MusicUserBot
+# DBMsohbet - MusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @DBMBOSSdu
    
 import os
 import asyncio
@@ -26,7 +26,7 @@ DYNO_COMMAND = Li.DYNO_COMMAND
                    & filters.command("endvc", prefixes=DYNO_COMMAND)
                    ) 
 async def stop_playing(_, ryui: Message):
-    pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+    pwn = await ryui.reply_text("Sinxronzasiya olunur @DBMsohbet", True) 
     await pwn.edit_text("Serverlə əlaqə yaradılır...") 
     await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
     await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
@@ -43,7 +43,7 @@ async def stop_playing(_, ryui: Message):
     await wait_before_rm((hawk, ryui), Kill_Time)
     
     
-"+|==========================================🍁----------[-_-]----------🍁==============================================|+"
+"+|==========================================💫----------[-_-]----------💫==============================================|+"
 
 
 async def wait_before_rm(messages: tuple, delay: int):
@@ -53,7 +53,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-            🔞çox qurdalama🔞  aykhan_s 🙋🏻‍♂️
+            🔞çox qurdalama🔞  DBMBOSSdu 🙋🏻‍♂️
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
